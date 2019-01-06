@@ -170,6 +170,6 @@ img1.onmousemove = function (ev) {
 			slider.style.top = oT + 'px';
 
 			var scale = img2.offsetWidth / slider.offsetWidth;
-			Bimg.style.left = -scale * oL + slider.offsetWidth + 'px'
-			Bimg.style.top = -scale * oT + slider.offsetHeight + 'px'
+			Bimg.style.left = -scale * oL + 'px'
+			Bimg.style.top = -scale * oT  + 'px'
 		}
