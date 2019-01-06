@@ -305,12 +305,11 @@ ul,ol,li{
 	top: 20px;
 	left: 432px;
 	overflow: hidden;
-	background: #fff;
 	border: 1px solid #d0cdc7;
 }
 #Bimg {
-    width:800px;
-    height:800px;
+    width:1115px;
+    height:1115px;
     position: absolute;
     left: 0px;
     top: 0;
